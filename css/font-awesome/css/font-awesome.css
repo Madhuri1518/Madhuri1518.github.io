@@ -154,27 +154,7 @@
 :root .fa-flip-vertical {
   filter: none;
 }
-.fa-stack {
-  position: relative;
-  display: inline-block;
-  width: 2em;
-  height: 2em;
-  line-height: 2em;
-  vertical-align: middle;
-}
-.fa-stack-1x,
-.fa-stack-2x {
-  position: absolute;
-  left: 0;
-  width: 100%;
-  text-align: center;
-}
-.fa-stack-1x {
-  line-height: inherit;
-}
-.fa-stack-2x {
-  font-size: 2em;
-}
+
 .fa-inverse {
   color: #ffffff;
 }
@@ -1212,9 +1192,7 @@
 .fa-dropbox:before {
   content: "\f16b";
 }
-.fa-stack-overflow:before {
-  content: "\f16c";
-}
+
 .fa-instagram:before {
   content: "\f16d";
 }
@@ -1306,9 +1284,7 @@
 .fa-pagelines:before {
   content: "\f18c";
 }
-.fa-stack-exchange:before {
-  content: "\f18d";
-}
+
 .fa-arrow-circle-o-right:before {
   content: "\f18e";
 }
