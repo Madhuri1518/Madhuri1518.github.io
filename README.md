@@ -1,30 +1,10 @@
-Agency Jekyll theme
-====================
 
-Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
+1.Tab1 - Home
 
-# How to use
+2.Tab2 - About Me
 
-###Portfolio 
+3.Tab 3 - Contact Me
 
-Portfolio projects are in '/_posts'
+4.Tab 4 - My Gallery with a grid of photos
 
-Images are in '/img/portfolio'
-
-###About
-
-Images are in '/img/about/'
-
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
-
-
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
-For more details, read [documentation](http://jekyllrb.com/)
+Use GitHub Pages to create your website.
