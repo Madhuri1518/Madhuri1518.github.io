@@ -10,14 +10,7 @@
             <div class="row">
             {% for post in site.posts %}
                 <div class="col-md-4 col-sm-6 gallery-item">
-                    <a href="#galleryModal{{ post.modal-id }}" class="gallery-link" data-toggle="modal">
-                        <div class="gallery-hover">
-                            <div class="gallery-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/gallery/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
-                    </a>
+                    <img src="img/gallery/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
                     <!--<div class="gallery-caption">
                         <h4>{{ post.title }}</h4>
                         <p class="text-muted">{{ post.subtitle }}</p>
